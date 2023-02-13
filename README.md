@@ -18,7 +18,7 @@ Besided that, these courses have helped me to challenging myself, being better i
 * I enjoy hiking and walk in the nature. 
 * I enjoy painting. 
 
-![alt text]
+![alt text](IMG_6101.jpg)
 
 If you like to know a little bit more about me , you can check me on [Instagram](https://www.instagram.com/lessberduo/)
 
