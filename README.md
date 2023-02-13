@@ -18,7 +18,7 @@ Besided that, these courses have helped me to challenging myself, being better i
 * I enjoy hiking and walk in the nature. 
 * I enjoy painting. 
 
-![alttext](https://github.com/Berduoleslie/FEWD-a01/commit/56e137116e8421bb4e5d15defc50dc0e48dd166f)
+![alttext](https://github.com/Berduoleslie/FEWD-a01/blob/56e137116e8421bb4e5d15defc50dc0e48dd166f/IMG_6101.jpg)
 
 If you like to know a little bit more about me , you can check me on [Instagram](https://www.instagram.com/lessberduo/)
 
