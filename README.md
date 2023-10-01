@@ -25,7 +25,6 @@ Since we are living in a world that everyday is innovating, I consider that crea
   * adobe suite
   * html/ CSS
 
-![alttext](https://github.com/Berduoleslie/FEWD-a01/blob/56e137116e8421bb4e5d15defc50dc0e48dd166f/IMG_6101.jpg)
 
 If you like to know a little bit more about me , you can check me on [Instagram](https://www.instagram.com/lessberduo/)
 
