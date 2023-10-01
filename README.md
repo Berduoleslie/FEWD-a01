@@ -25,8 +25,7 @@ Since we are living in a world that everyday is innovating, I consider that crea
   * adobe suite
   * html/ CSS
 
-!{view}(
-
+!{view}(https://github.com/Berduoleslie/FEWD-a01/issues/2#issue-1920598167)
 
 If you like to know a little bit more about me , you can check me on [Instagram](https://www.instagram.com/lessberduo/)
 
