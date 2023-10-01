@@ -5,10 +5,7 @@ FEWD-a01
 
 Hi there I'm **Leslie**!. I am twenty-eight year old. 
 Currently, _**I am student of front developer program at San Diego College Continuing Education.**_ 
-I decided to take these courses because I love the idea of creating and designing on the web.
-During my learning process , I found that creating web page is like learning a new language; therefore, I am getting more interesting in these courses. 
-
-Besided that, these courses have helped me to challenging myself, being better in organizing my time, learning how to work and communicate with my classmates. So far, it has been an interesing road, and I am so happy and excited in to know what will in the following months. 
+Since we are living in a world that everyday is innovating, I consider that creating and designing have turn into one of my biggest passions in life.  
 
 ## Interesting facts about me:
 * I passionate in reading books ( romance, comedy, fantasy)
@@ -16,7 +13,17 @@ Besided that, these courses have helped me to challenging myself, being better i
 * I am really interesting in learning always , especially in new languages.
 * I enjoy spending time with my family
 * I enjoy hiking and walk in the nature. 
-* I enjoy painting. 
+* I enjoy painting.
+
+## Professional goals:
+ * Build a brand image.
+ * Improve and increase customer interactions.
+ * Making an impact with my designs.
+ * Be up-to-date with the lastest technology. 
+
+## skills and technology :
+  * adobe suite
+  * html/ CSS
 
 ![alttext](https://github.com/Berduoleslie/FEWD-a01/blob/56e137116e8421bb4e5d15defc50dc0e48dd166f/IMG_6101.jpg)
 
